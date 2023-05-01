@@ -1,14 +1,16 @@
 <div align="center">
   <h1>MakeIt Blockchain</h1>
 
-![image](https://user-images.githubusercontent.com/74860406/235416473-18eeb348-58ff-42d4-afa1-b2cde00bcf99.png)
-
+<img src="https://user-images.githubusercontent.com/74860406/235416473-18eeb348-58ff-42d4-afa1-b2cde00bcf99.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="250" height="250" />
+  
  <h3><a href="https://sepolia.etherscan.io/address/0x66a04fa6761468c5274bff1c9b69048607800244">Sepolia Etherscan🔗</a></h3>
 
 </div>
 
 
-```This Code is Created and Maintained in online Remix IDE```
+<br/>
+
+## This Code is Created and Maintained in Remix IDE
 
 ```
 REMIX DEFAULT WORKSPACE
